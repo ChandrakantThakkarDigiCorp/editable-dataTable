@@ -146,4 +146,4 @@ allRows.each(function(i, d) {
 //CBT: Here, employeeData contains DataTable data in JSON fromat
 ```
 
-### <a href='https://rawgit.com/ChandrakantThakkarDigiCorp/editable-dataTable/master/index.html' target='_blank'>Click Here To See Output</a>
+### <a href='https://chandrakantthakkardigicorp.github.io/editable-dataTable/' target='_blank'>Click Here To See Output</a>
